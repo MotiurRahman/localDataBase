@@ -1,0 +1,1 @@
+/Users/motiurrahman/Documents/Appcelerator_Studio_Workspace/localDataBase/Resources/ui/handheld/ApplicationWindow.js

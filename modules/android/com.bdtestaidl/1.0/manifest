@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.0
+apiversion: 2
+architectures: armeabi armeabi-v7a x86
+description: testaidl
+author: Your Name
+license: Specify your license
+copyright: Copyright (c) 2015 by Your Company
+
+# these should not be edited
+name: testaidl
+moduleid: com.bdtestaidl
+guid: f8d4352a-2005-4dcb-a846-04dc5a4910a5
+platform: android
+minsdk: 4.1.0.GA
